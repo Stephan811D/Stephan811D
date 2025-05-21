@@ -1,42 +1,63 @@
 ## Hi there 👋
 
-I'm a developer who enjoys exploring new technologies and experimenting with different tools and stacks.
+I'm a software developer with a focus on frontend technologies. I enjoy working with modern frameworks and exploring new tools and architectures.
 
-I care deeply about detail and strive to deliver high-quality, maintainable code. I aim to make every part of a project understandable and traceable.
+My work is structured and detail-oriented. I aim to write clean, maintainable code and ensure that every part of a project is understandable and well-documented.
 
-Currently, I work as a frontend developer, but I also enjoy exploring backend technologies in my free time. I've already implemented several projects, though not all of them are available on GitHub.
+Currently, I'm working as a frontend developer. In my free time, I experiment with backend technologies and have completed several projects. Some of them can be found on this profile.
+
+I'm always looking to expand my skill set and stay up to date with current technologies and development practices. I value clear communication and collaboration, especially in cross-functional teams. My toolset includes Git, Docker, and CI/CD pipelines to ensure consistent and stable development workflows.
+
 
 ### 💼 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]([https://link.com](https://www.linkedin.com/in/stephan-schaufler-20b9272aa/))
 
 ---
 
 ### 🛠️ Technologies I use
 
-#### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+#### Languages & Markup
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+</p>
 
 #### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />
+</p>
 
-#### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white)
+#### Databases & Servers
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
+</p>
+
+#### Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephan811D&show_icons=true&count_private=true&hide_title=true)
-
