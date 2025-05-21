@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer with a focus on frontend technologies. I enjoy working with modern frameworks and exploring new tools and architectures.
+My name is Stephan Schaufler and I am a software developer who enjoys exploring new technologies and experimenting with different tools and architectures.
 
 My work is structured and detail-oriented. I aim to write clean, maintainable code and ensure that every part of a project is understandable and well-documented.
 
@@ -10,7 +10,7 @@ I'm always looking to expand my skill set and stay up to date with current techn
 
 
 ### 💼 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]([https://link.com](https://www.linkedin.com/in/stephan-schaufler-20b9272aa/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephan-schaufler-20b9272aa/)
 
 ---
 
@@ -29,12 +29,12 @@ I'm always looking to expand my skill set and stay up to date with current techn
 
 #### Frameworks & Libraries
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />
 </p>
 
