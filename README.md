@@ -49,11 +49,13 @@ I'm always looking to expand my skill set and stay up to date with current techn
 
 #### Tools & Platforms
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" width="40" />
-  <img src="https://avatars.githubusercontent.com/u/19214103?s=200&v=4" alt="Parcel Bundler" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/32607881?s=200&v=4" alt="Parcel Bundler" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
