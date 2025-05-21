@@ -48,7 +48,7 @@ I'm always looking to expand my skill set and stay up to date with current techn
 </p>
 
 #### Tools & Platforms
-<p>
+<p align="left" style="text-decoration: none;">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="border: none;" />
   </a>
